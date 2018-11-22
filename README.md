@@ -1,4 +1,4 @@
-# microcontroladores
+# tcc_leonardo
 TCC de Leonardo Drews Montibeller
 
 Códigos das aplicações utilizadas no Trabalho de Conclusão de Curso intitulado
